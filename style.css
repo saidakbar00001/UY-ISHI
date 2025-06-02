@@ -1,0 +1,27 @@
+body{
+    background-color: red;
+}
+h1{
+    text-align: center;
+    background-color: aqua;
+    color: aliceblue;
+}
+.ota{
+    background-color: bisque;
+}
+.s{
+  width: 350px;
+  background-color: white;
+  text-align: center;
+  padding: 15px;
+  border: 1px solid black;
+  border-radius: 15px;
+}
+.a{
+    width: 200px;
+}
+.m{
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+}
